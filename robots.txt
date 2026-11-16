@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://novasoftware0.github.io/novatypingmaster/sitemap.xml
